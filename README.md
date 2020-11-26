@@ -2,6 +2,6 @@
 
 [Day 01: HTML](/HTML_Notes.txt)
 
-[Day 01: HTML](/CSS Notes.txt)
+[Day 02: CSS](CSS notes.txt)
 
 
